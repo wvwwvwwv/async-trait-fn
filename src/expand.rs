@@ -30,7 +30,7 @@ enum FutureType {
     /// The returned `Future` is an `impl Future`.
     Unboxed,
 
-    /// The returned `Future` is an `impl Future` with all the same lifetime bound for all the
+    /// The returned `Future` is an `impl Future` with the same lifetime bound for all the
     /// references and the `Future`.
     UnboxedSimple,
 }
