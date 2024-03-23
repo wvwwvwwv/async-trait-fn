@@ -1,3 +1,7 @@
+# THE REPOSITORY/CRATE IS NO LONGER MAINTAINED
+
+* Use the `async_fn_in_trait` feature (Rust 1.75.0) or `async_trait`.
+
 # async-trait-fn
 
 [![Cargo](https://img.shields.io/crates/v/async-trait-fn)](https://crates.io/crates/async-trait-fn)
